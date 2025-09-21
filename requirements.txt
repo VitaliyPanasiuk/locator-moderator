@@ -3,3 +3,5 @@ aioredis
 environs
 asyncpg
 requests
+Django
+psycopg2
